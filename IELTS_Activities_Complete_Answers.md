@@ -17,6 +17,20 @@ What makes **rock climbing** truly appealing is **its ability to connect people 
 
 All in all, **rock climbing** is a sport I **eagerly anticipate trying**. I feel **incredibly motivated** to **begin training and learning proper techniques**, and I hope to **experience the thrill of scaling real rock faces** in the near future.
 
+**OR (Gym/Fitness-related outdoor alternative):**
+
+I'd like to talk about **outdoor calisthenics training**, which is an activity I **find absolutely appealing**. **This sport** involves **performing bodyweight exercises in outdoor parks using equipment like pull-up bars and parallel bars** and I **have been interested in trying it** **for several months**.
+
+What strikes me most about **outdoor calisthenics** is **its** **exceptional** combination of functional strength and natural environment training. **The activity** has this **incredible ability to build practical strength while enjoying fresh air and community atmosphere** that really **sets it apart from indoor gym workouts**. I'd describe **calisthenics training** as **challenging, accessible, and remarkably effective** - qualities that are **quite rare in fitness activities**.
+
+I remember one particular moment when **I watched experienced practitioners at a local park performing advanced moves like muscle-ups and human flags, demonstrating incredible strength-to-weight ratios**. This really **opened my eyes to the potential of bodyweight training for building functional fitness**. It was **at that moment** that I understood **the true appeal of this equipment-free approach to strength building**.
+
+**This sport** has had a **profound impact** on me in many ways. **The** **progressive skill development and community aspect** has taught me that **fitness can be both challenging and socially engaging**. I often find myself **thinking about bodyweight movement patterns** when I face **decisions about supplementing my current gym routine**.
+
+What makes **outdoor calisthenics** truly appealing is **its accessibility and scalability for all fitness levels**. **The sport** has this **wonderful way of combining strength training with outdoor recreation** that **never fails to inspire me to diversify my fitness approach**. It's **activities like this** that **make fitness more engaging and sustainable**.
+
+All in all, **outdoor calisthenics** is a sport I **eagerly anticipate incorporating into my routine**. I feel **incredibly motivated** to **start with basic progressions**, and I hope to **eventually master advanced bodyweight skills** while enjoying the outdoor training environment.
+
 ---
 
 ## **2. Describe a difficult thing you did and succeeded in**
@@ -33,6 +47,20 @@ What makes **this achievement** truly meaningful is **its demonstration of perso
 
 All in all, **learning to play guitar** was a challenge I **found both difficult and ultimately fulfilling**. I feel **incredibly proud** of **the progress I've made**, and I hope to **continue developing my musical abilities** while applying the same persistence to other goals.
 
+**OR (Software Engineering alternative):**
+
+I'd like to talk about **learning full-stack web development**, which is an achievement I **find absolutely rewarding**. **This challenge** began **two years ago when I decided to transition into software engineering** and I **taught myself multiple programming languages and frameworks** **through online courses and personal projects**.
+
+What strikes me most about **this learning journey** is **its** **exceptional** combination of logical thinking and creative problem-solving. **The process** had this **incredible ability to challenge my analytical skills while building practical applications** that really **set it apart from theoretical academic learning**. I'd describe **the experience** as **intellectually stimulating, practical, and remarkably empowering** - qualities that are **quite rare in self-taught technical skills**.
+
+I remember one particular moment when **I successfully deployed my first full-stack application to the cloud, seeing my code come to life as a functioning web application that others could actually use**. This really **opened my eyes to the tangible impact of programming skills**. It was **at that moment** that I understood **the true satisfaction of creating digital solutions**.
+
+**This accomplishment** has had a **profound impact** on me in many ways. **The** **systematic approach to problem-solving and continuous learning required** has taught me that **complex technical skills can be mastered through structured practice and persistence**. I often find myself **thinking about coding principles and software architecture** when I face **logical challenges in other areas of life**.
+
+What makes **this achievement** truly meaningful is **its practical applications and career potential**. **The programming journey** has this **wonderful way of opening doors to countless opportunities while providing tools to build innovative solutions** that **never fails to motivate me during challenging debugging sessions**. It's **accomplishments like this** that **transform career prospects and creative capabilities**.
+
+All in all, **learning full-stack development** was a challenge I **found both technically demanding and incredibly fulfilling**. I feel **incredibly confident** in **my programming abilities**, and I hope to **continue advancing my software engineering skills** while building meaningful applications.
+
 ---
 
 ## **3. Describe a skill that you can teach other people**
@@ -48,6 +76,20 @@ I remember one particular moment when **I taught my cousin how to use manual cam
 What makes **teaching photography** truly special is **its immediate visual results and creative satisfaction**. **The skill-sharing process** has this **wonderful way of creating shared experiences and lasting memories** that **never fails to strengthen relationships while building confidence**. It's **skills like this** that **bring people together through creative expression**.
 
 All in all, **teaching digital photography** is an activity I **consider both personally fulfilling and socially valuable**. I feel **incredibly satisfied** when **students achieve their creative goals**, and I hope to **continue sharing this skill** with anyone interested in visual storytelling.
+
+**OR (Software Engineering alternative):**
+
+I'd like to talk about **teaching basic programming concepts to beginners**, which is a skill I **find absolutely rewarding to share**. **This ability** was developed **through my software engineering studies and practical coding experience** and I **have been mentoring junior developers and students** **at coding bootcamps and online forums**.
+
+What strikes me most about **teaching programming** is **its** **exceptional** combination of logical problem-solving and creative thinking. **The skill** has this **incredible ability to empower people with tools to build digital solutions** that really **sets it apart from other technical teaching**. I'd describe **programming instruction** as **logical, empowering, and remarkably practical** - qualities that are **quite rare in skill-sharing experiences**.
+
+I remember one particular moment when **I helped a complete beginner write their first functional web application, and seeing their excitement when the code actually worked was absolutely infectious**. This really **opened my eyes to the transformative power of programming education**. It was **at that moment** that I understood **the true satisfaction of demystifying technology for others**.
+
+**This teaching experience** has had a **profound impact** on me in many ways. **The** **process of explaining complex algorithms in simple terms** has taught me that **effective technical communication requires breaking down complexity into digestible concepts**. I often find myself **thinking about pedagogical approaches** when I face **opportunities to explain technical concepts to non-technical audiences**.
+
+What makes **teaching programming** truly special is **its potential to change career trajectories and creative capabilities**. **The skill-sharing process** has this **wonderful way of opening doors to new opportunities while building problem-solving confidence** that **never fails to inspire continued learning in both teacher and student**. It's **skills like this** that **democratize access to technology careers**.
+
+All in all, **teaching programming fundamentals** is an activity I **consider both intellectually stimulating and socially impactful**. I feel **incredibly fulfilled** when **students successfully build their first applications**, and I hope to **continue mentoring aspiring developers** while contributing to tech education accessibility.
 
 ---
 
