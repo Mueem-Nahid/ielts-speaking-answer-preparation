@@ -198,7 +198,7 @@ This collection represents **months of careful preparation** and covers **every 
 
 ## 👨‍💻 About
 
-**Prepared by:** Mueem  
+**Prepared by:** Mueem Nahid Ibn Mahbub
 **With assistance from:** Claude (Anthropic AI)  
 **Question topics sourced from:** Makkar's IELTS Speaking PDF Book
 
