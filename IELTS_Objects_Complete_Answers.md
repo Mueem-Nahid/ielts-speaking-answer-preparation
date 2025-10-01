@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 19 OBJECTS/THINGS Questions
+# IELTS Speaking Part 2 - Complete Answers for All 21 OBJECTS/THINGS Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -304,3 +304,35 @@ I remember one particular moment when **my name was called during the ceremony a
 What makes **this prize** truly valuable is **its role in supporting my educational goals and future aspirations**. **The scholarship** has this **wonderful way of reducing financial stress while boosting confidence in my abilities** that **never fails to motivate me to maintain high academic standards**. It's **awards like this** that **make educational excellence both recognized and accessible**.
 
 All in all, **receiving that scholarship** was a prize I **treasure as validation of my academic journey**. I feel **incredibly honored** by **this recognition**, and I hope to **continue earning such achievements** while using the support to further my educational goals.
+
+---
+
+## **20. Describe a piece of technology you own that you feel is difficult to use**
+
+I'd like to talk about **my DSLR camera with manual settings**, which is a device I **find absolutely challenging**. **This camera** was purchased **two years ago when I wanted to pursue photography seriously** and I **still struggle with its complex features** **despite regular practice**.
+
+What strikes me most about **this technology** is **its** **exceptional** sophistication and technical complexity. **The camera** has this **incredible ability to offer professional-quality results but requires extensive knowledge to operate properly** that really **sets it apart from simple point-and-shoot devices**. I'd describe **the device** as **powerful, intimidating, and remarkably feature-rich** - qualities that are **quite rare in consumer electronics**.
+
+I remember one particular moment when **I was trying to capture a sunset and had to simultaneously adjust aperture, shutter speed, ISO, white balance, and focus modes while the perfect lighting was rapidly disappearing**. This really **opened my eyes to the steep learning curve of professional photography equipment**. It was **at that moment** that I understood **the true complexity of manual photography**.
+
+**This camera** has had a **profound impact** on me in many ways. **The** **frustration and gradual learning process** has taught me that **mastering sophisticated technology requires patience and consistent practice**. I often find myself **thinking about photography fundamentals** when I face **situations requiring technical knowledge and quick decision-making**.
+
+What makes **this technology** truly difficult is **its requirement for simultaneous management of multiple technical variables**. **The camera** has this **wonderful way of offering incredible creative control while demanding substantial technical expertise** that **never fails to remind me of the balance between accessibility and professionalism in technology**. It's **devices like this** that **separate casual users from dedicated professionals**.
+
+All in all, **my DSLR camera** is technology I **find both frustrating and rewarding to use**. I feel **incredibly determined** to **master its capabilities**, and I hope to **continue learning through practice** until I can use it instinctively.
+
+---
+
+## **21. Describe an important old thing that your family has kept for a long time**
+
+I'd like to talk about **my great-grandfather's pocket watch**, which is an object I **find absolutely precious**. **This timepiece** was crafted **in the 1920s with intricate engravings and mechanical movement** and I **have seen it passed through three generations** **in our family**.
+
+What strikes me most about **this pocket watch** is **its** **exceptional** historical significance and sentimental value. **The heirloom** has this **incredible ability to connect our family across nearly a century of history** that really **sets it apart from modern possessions**. I'd describe **the watch** as **elegant, meaningful, and remarkably well-preserved** - qualities that are **quite rare in family artifacts**.
+
+I remember one particular moment when **my grandfather showed me the watch and explained how it had been with him during significant life events, including his wedding day, the birth of his children, and major family celebrations spanning decades**. This really **opened my eyes to the stories embedded in family heirlooms**. It was **at that moment** that I understood **the true value of preserving generational treasures**.
+
+**This pocket watch** has had a **profound impact** on me in many ways. **The** **connection to family history and continuity** has taught me that **some possessions transcend monetary value by representing family legacy**. I often find myself **thinking about the generations who have cherished this watch** when I face **decisions about maintaining family traditions**.
+
+What makes **this watch** truly important is **its role as a tangible link to our family's past**. **The timepiece** has this **wonderful way of reminding us that we are part of a continuing family story** that **never fails to inspire responsibility for preserving heritage**. It's **objects like this** that **anchor families to their roots and history**.
+
+All in all, **my great-grandfather's pocket watch** is an heirloom I **consider priceless and irreplaceable**. I feel **incredibly honored** to **be part of its custodianship**, and I hope to **preserve it carefully** for future generations to cherish.

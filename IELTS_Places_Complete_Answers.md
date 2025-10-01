@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 18 PLACES Questions
+# IELTS Speaking Part 2 - Complete Answers for All 19 PLACES Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -288,3 +288,19 @@ I remember one particular occasion when **I was watching a documentary about its
 What makes **the Burj Khalifa** truly special is **its ability to represent human ambition and technological progress**. **The building** has this **wonderful way of inspiring people to dream bigger and reach higher** that **never fails to inspire me**. It's **structures like this** that **make me excited about the future of architecture and engineering**.
 
 All in all, **the Burj Khalifa** is a destination I **dream of experiencing**. I feel **incredibly curious** about **standing at its observation deck**, and I hope to **visit Dubai someday** to witness this architectural wonder firsthand.
+
+---
+
+## **19. Describe someone else's room you enjoy spending time in**
+
+I'd like to talk about **my best friend Lisa's art studio**, which is a place I **find absolutely inspiring**. **It** is **a converted garage space filled with natural light and creative equipment** and I **have been visiting there regularly** **for about two years**.
+
+What strikes me most about **this room** is **its** **exceptional** creative energy and organized chaos. **It** has this **incredible ability to stimulate imagination while feeling comfortable and welcoming** that really **sets it apart from other personal spaces**. I'd describe **the studio** as **vibrant, eclectic, and remarkably expressive** - qualities that are **quite rare these days**.
+
+I remember one particular occasion when **Lisa was working on a large canvas painting while I sat on her vintage couch sketching. The walls covered with her artwork, the smell of oil paints, and soft music playing in the background created a perfect creative atmosphere**. This really **opened my eyes to how personal spaces can reflect and nurture creativity**. It was **at that moment** that I understood **the true importance of having dedicated creative spaces**.
+
+**This studio** has had a **profound impact** on me in many ways. **The** **freedom to experiment and the absence of judgment** has taught me that **creative spaces should encourage exploration without fear of failure**. I often find myself **thinking about the studio's liberating atmosphere** when I face **moments requiring creative problem-solving**.
+
+What makes **Lisa's studio** truly special is **its ability to make everyone feel like an artist**. **The room** has this **wonderful way of inspiring visitors to tap into their own creativity** that **never fails to inspire me**. It's **spaces like this** that **make me appreciate the power of environment on creativity**.
+
+All in all, **Lisa's art studio** is a space I **treasure immensely**. I feel **incredibly fortunate** to have **access to such an inspiring environment**, and I hope to **continue spending time there** while developing my own creative pursuits.

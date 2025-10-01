@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 14 ACTIVITIES/SKILLS/HOBBIES Questions
+# IELTS Speaking Part 2 - Complete Answers for All 16 ACTIVITIES/SKILLS/HOBBIES Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -266,3 +266,35 @@ I remember one particular moment when **our fundraising event successfully raise
 What makes **this activity** truly special is **its lasting impact on both participants and beneficiaries**. **The charity project** has this **wonderful way of demonstrating how student initiatives can create real social change** that **never fails to inspire continued community involvement**. It's **activities like this** that **show the power of collective action**.
 
 All in all, **organizing the charity fundraiser** was an experience I **consider both personally rewarding and socially valuable**. I feel **incredibly proud** of **what we accomplished together**, and I hope to **continue participating in meaningful group projects** that benefit our community.
+
+---
+
+## **15. Describe an exciting activity you have tried for the first time**
+
+I'd like to talk about **trying paragliding for the first time**, which is an experience I **find absolutely exhilarating**. **This activity** took place **last summer when I visited a hill station in northern Bangladesh** and I **decided to overcome my fear of heights** **by taking a tandem flight with an experienced instructor**.
+
+What strikes me most about **this first-time experience** is **its** **exceptional** combination of terror and pure joy. **The activity** had this **incredible ability to push me completely out of my comfort zone while providing breathtaking views** that really **set it apart from other adventure experiences**. I'd describe **paragliding** as **thrilling, liberating, and remarkably transformative** - qualities that are **quite rare in recreational activities**.
+
+I remember one particular moment when **I was standing at the edge of the cliff preparing to run and take off, my heart pounding with fear, but once we were airborne and soaring above the valley, the fear transformed into an overwhelming sense of freedom and wonder**. This really **opened my eyes to the incredible perspective that comes from aerial views**. It was **at that moment** that I understood **the true appeal of adventure sports and conquering personal fears**.
+
+**This exciting activity** has had a **profound impact** on me in many ways. **The** **courage required to take that leap** has taught me that **most of our fears are mental barriers that can be overcome with the right support and determination**. I often find myself **thinking about that paragliding experience** when I face **intimidating challenges that require stepping into the unknown**.
+
+What makes **this activity** truly exciting is **its ability to provide a completely new perspective on the world**. **The paragliding experience** has this **wonderful way of making ordinary landscapes look extraordinary while building confidence in facing fears** that **never fails to inspire me to try other adventure activities**. It's **experiences like this** that **remind us of life's incredible possibilities**.
+
+All in all, **trying paragliding for the first time** was an activity I **found both terrifying and absolutely unforgettable**. I feel **incredibly proud** of **overcoming my fear of heights**, and I hope to **try paragliding again** while exploring other adventure sports that push my boundaries.
+
+---
+
+## **16. Describe a place you went to and an outdoor activity you did there**
+
+I'd like to talk about **visiting Sajek Valley and trekking through cloud forests**, which is an experience I **find absolutely spectacular**. **This destination** is located **in the Rangamati district of Bangladesh, known for its mountainous terrain** and I **spent three days there last year** **hiking through various trails with friends**.
+
+What strikes me most about **this place and activity** is **its** **exceptional** combination of natural beauty and physical challenge. **The location** had this **incredible ability to offer stunning vistas while providing excellent trekking opportunities** that really **set it apart from typical tourist destinations**. I'd describe **Sajek Valley** as **breathtaking, pristine, and remarkably peaceful** - qualities that are **quite rare in accessible natural areas**.
+
+I remember one particular moment when **we were trekking through dense clouds at sunrise and suddenly emerged above the cloud cover to see mountain peaks floating in a sea of white mist, with the sun painting everything in golden hues**. This really **opened my eyes to the incredible natural wonders within our own country**. It was **at that moment** that I understood **the true magic of combining travel with outdoor activities**.
+
+**This place and activity** have had a **profound impact** on me in many ways. **The** **physical exertion combined with natural immersion** has taught me that **the best travel experiences involve active engagement with environments rather than passive observation**. I often find myself **thinking about the valley's serenity** when I face **stress from urban living**.
+
+What makes **Sajek Valley trekking** truly special is **its ability to provide both adventure and tranquility**. **The destination** has this **wonderful way of offering challenging trails alongside moments of peaceful contemplation** that **never fails to refresh both body and mind**. It's **places and activities like these** that **create lasting memories and deeper connections with nature**.
+
+All in all, **visiting Sajek Valley for trekking** was an experience I **treasure as one of my best outdoor adventures**. I feel **incredibly grateful** for **the natural beauty I witnessed**, and I hope to **return there soon** while exploring other mountainous regions that offer similar trekking opportunities.

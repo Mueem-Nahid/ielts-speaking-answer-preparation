@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 5 DECISIONS/PLANS Questions
+# IELTS Speaking Part 2 - Complete Answers for All 6 DECISIONS/PLANS Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -80,3 +80,19 @@ I remember one particular moment when **I developed a business plan for a mobile
 What makes **this ambition** truly meaningful is **its potential for creating value while pursuing personal fulfillment**. **The goal** has this **wonderful way of combining financial success with technological innovation** that **never fails to motivate me during difficult periods**. It's **ambitions like this** that **provide direction and purpose throughout one's career**.
 
 All in all, **starting a technology company** is an ambition I **continue pursuing with determination and patience**. I feel **incredibly motivated** by **the learning journey it provides**, and I hope to **eventually achieve this goal** while gaining valuable experience along the way.
+
+---
+
+## **6. Describe an important decision made with the help of other people**
+
+I'd like to talk about **my decision to change my research topic for my thesis with guidance from professors and peers**, which is a choice I **find absolutely collaborative**. **This decision** was made **during my final year when I realized my original topic was too ambitious for the timeline** and I **consulted with my thesis supervisor, committee members, and fellow students** **before making the final change**.
+
+What strikes me most about **this decision** is **its** **exceptional** demonstration of the value of collective wisdom. **The choice** had this **incredible ability to benefit from multiple perspectives and expertise** that really **set it apart from solitary decision-making**. I'd describe **the process** as **collaborative, humbling, and remarkably insightful** - qualities that are **quite rare in academic decisions**.
+
+I remember one particular moment when **my supervisor suggested narrowing my scope while a senior student shared how she had faced a similar dilemma, and their combined advice helped me identify a more manageable yet still meaningful research focus**. This really **opened my eyes to the power of seeking diverse opinions**. It was **at that moment** that I understood **the true value of collaborative decision-making**.
+
+**This decision** has had a **profound impact** on me in many ways. **The** **improved research direction and successful thesis completion** has taught me that **important decisions often benefit from external perspectives and collective wisdom**. I often find myself **thinking about the importance of consultation** when I face **significant choices that could benefit from others' expertise**.
+
+What makes **this decision** truly important is **its successful outcome and lesson about humility in seeking help**. **The collaborative process** has this **wonderful way of demonstrating that asking for advice is a strength, not a weakness** that **never fails to encourage me to involve others in major decisions**. It's **decisions like this** that **teach us the value of community and shared knowledge**.
+
+All in all, **changing my research topic with others' help** was a decision I **consider both academically successful and personally educational**. I feel **incredibly grateful** for **the guidance I received**, and I hope to **continue making important decisions collaboratively** while also offering my own perspective to help others.

@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 2 NATURE/ENVIRONMENT Questions
+# IELTS Speaking Part 2 - Complete Answers for All 3 NATURE/ENVIRONMENT Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -32,3 +32,19 @@ I remember one particular moment when **she organized a tree-planting campaign i
 What makes **Dr. Khan** truly inspiring is **her ability to translate complex environmental science into accessible community action**. **This environmentalist** has this **wonderful way of empowering others to become environmental stewards** that **never fails to motivate students and community members to take conservation seriously**. It's **people like her** that **bridge the gap between environmental science and public action**.
 
 All in all, **Dr. Khan** is an environmental protector I **consider both a role model and an inspiration**. I feel **incredibly motivated** by **her dedication to environmental conservation**, and I hope to **follow her example** by combining knowledge with action in environmental protection.
+
+---
+
+## **3. Describe a beautiful sky you enjoyed seeing**
+
+I'd like to talk about **the sunset sky I witnessed at Cox's Bazar beach**, which is a view I **find absolutely breathtaking**. **This natural spectacle** occurred **during my family vacation last summer when we stayed by the seashore** and I **watched the sky transform through multiple colors** **during the golden hour**.
+
+What strikes me most about **this beautiful sky** is **its** **exceptional** display of natural artistry and color variation. **The scene** had this **incredible ability to create a constantly changing canvas of oranges, pinks, purples, and golds reflected on the ocean surface** that really **set it apart from ordinary sunsets**. I'd describe **the sky** as **magnificent, ever-changing, and remarkably peaceful** - qualities that are **quite rare in natural phenomena**.
+
+I remember one particular moment when **the sun touched the horizon and the entire sky erupted in brilliant crimson and gold, with clouds arranged in dramatic patterns that created layers of different colors, while the water mirrored the spectacle creating a double effect**. This really **opened my eyes to the natural beauty we often take for granted**. It was **at that moment** that I understood **the true power of nature to create stunning visual experiences**.
+
+**This beautiful sky** has had a **profound impact** on me in many ways. **The** **sense of peace and wonder it provided** has taught me that **nature offers free, accessible beauty that can restore our sense of perspective and calm**. I often find myself **thinking about that peaceful moment** when I face **stressful situations requiring mental clarity and tranquility**.
+
+What makes **this sky** truly beautiful is **its ephemeral nature and unique timing**. **The sunset** has this **wonderful way of reminding us to appreciate fleeting moments of beauty** that **never fails to encourage mindfulness and present-moment awareness**. It's **experiences like this** that **reconnect us with the natural world's magnificence**.
+
+All in all, **that sunset sky at Cox's Bazar** was a sight I **treasure as a moment of natural perfection**. I feel **incredibly grateful** to **have witnessed such beauty**, and I hope to **continue seeking opportunities** to appreciate nature's spectacular displays.

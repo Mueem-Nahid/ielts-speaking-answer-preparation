@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 30 PEOPLE Questions
+# IELTS Speaking Part 2 - Complete Answers for All 37 PEOPLE Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -480,3 +480,115 @@ I remember one particular occasion when **we reconnected through social media af
 What makes **him** truly special is **his ability to maintain the same core values while growing professionally**. **He** has this **amazing ability to balance scientific rigor with environmental activism** that **constantly motivates me**. It's **people like him** who **restore my faith in long-lasting friendships**.
 
 All in all, **he** is someone I **consider a role model**. I feel **truly blessed** to have **reconnected with him**, and I hope to **maintain our renewed friendship** for years to come.
+
+---
+
+## **31. Describe a successful sportsperson you admire**
+
+I'd like to talk about **Serena Williams**, who is someone I **find absolutely inspiring**. **She** is **a professional tennis player and champion** and we **have never met, but I've followed her career** **for many years**.
+
+What strikes me most about **her** is **her** **exceptional** athletic achievements and mental toughness. **She** has this **incredible ability to compete at the highest level while breaking barriers for women in sports** that really **makes her stand out**. I'd describe **her** as someone who is **powerful, determined, and groundbreaking** - qualities that are **quite rare these days**.
+
+I remember one particular occasion when **I watched her win a Grand Slam title after returning from motherhood. Her physical and mental strength were absolutely remarkable**. This really **opened my eyes to the challenges female athletes face**. It was **from that experience** that I understood **her true resilience and dedication**.
+
+**She** has had a **profound impact** on me in many ways. **Her** **way of overcoming adversity and discrimination** has taught me that **success requires not only talent but also unwavering determination**. I often find myself **thinking about her perseverance** when I face **obstacles in my own goals**.
+
+What makes **her** truly special is **her ability to use her platform for social change**. **She** has this **amazing ability to inspire young athletes, especially women and minorities** that **constantly motivates me**. It's **individuals of her caliber** who **make the world a better place**.
+
+All in all, **she** is someone I **have the utmost respect for**. I feel **incredibly fortunate** to witness **her legacy**, and I hope to **continue following her journey** for years to come.
+
+---
+
+## **32. Describe a good habit your friend has, and you want to develop**
+
+I'd like to talk about **my friend Rachel's morning routine**, which is a habit I **find absolutely admirable**. **She** is **a successful marketing executive in her thirties** and we **have been friends** **for about five years**.
+
+What strikes me most about **her habit** is **its** **remarkable** consistency and discipline. **She** has this **natural ability to wake up at 5:30 AM every day for meditation, exercise, and reading** that really **sets her apart from the crowd**. I'd describe **her routine** as **structured, healthy, and remarkably beneficial** - qualities that are **hard to come by**.
+
+I remember one particular occasion when **she invited me to join her morning routine, and I witnessed how energized and focused she was throughout the entire day. Her productivity was absolutely impressive**. This really **made me realize what kind of disciplined person she truly is**. It was **at that moment** that I understood **her genuine commitment to self-improvement**.
+
+**Her habit** has had a **significant influence** on me in many ways. **The** **positive impact on her physical and mental health** has taught me that **morning routines can set the tone for the entire day**. I often find myself **trying to emulate her consistency** when I face **challenges in establishing my own healthy habits**.
+
+What makes **her habit** truly special is **its holistic approach to wellness**. **She** has this **wonderful way of balancing physical, mental, and intellectual growth** that **never fails to inspire me**. It's **habits like hers** that **demonstrate the power of daily discipline**.
+
+All in all, **her morning routine** is a habit I **aspire to develop**. I feel **incredibly motivated** by **her example**, and I hope to **gradually incorporate similar practices** into my own life.
+
+---
+
+## **33. Describe a friend of yours who is good at music/singing**
+
+I'd like to talk about **my friend Sophie**, who is someone I **admire greatly**. **She** is **a professional vocalist and music teacher in her late twenties** and we **first met at university** **seven years ago**.
+
+What strikes me most about **her** is **her** **outstanding** vocal talent and musical knowledge. **She** has this **genuine passion for various music genres from classical to contemporary** that really **makes her stand out**. I'd describe **her** as someone who is **talented, versatile, and incredibly dedicated** - qualities that are **quite rare these days**.
+
+I remember one particular occasion when **she performed at a local jazz club, and her rendition of a classic song gave me goosebumps. Her voice control and emotional expression were absolutely breathtaking**. This really **opened my eyes to her exceptional musical gift**. It was **from that experience** that I understood **her true artistry**.
+
+**She** has had a **profound impact** on me in many ways. **Her** **dedication to practicing and perfecting her craft** has taught me that **natural talent must be combined with hard work to achieve excellence**. I often find myself **thinking about her work ethic** when I face **challenges in developing my own skills**.
+
+What makes **her** truly special is **her ability to make music accessible and enjoyable for everyone**. **She** has this **incredible knack for teaching students with patience and enthusiasm** that **always brightens my day**. It's **people like her** who **enrich our cultural lives**.
+
+All in all, **she** is someone I **have the utmost respect for**. I feel **extremely lucky** to have **her** as a friend, and I hope to **continue supporting her musical journey** for years to come.
+
+---
+
+## **34. Describe a good friend who is important to you**
+
+I'd like to talk about **my best friend Emma**, who is someone I **find absolutely irreplaceable**. **She** is **a social worker in her late twenties** and we **first met in elementary school** **over fifteen years ago**.
+
+What strikes me most about **her** is **her** **exceptional** empathy and loyalty. **She** has this **incredible ability to understand people's emotions and provide genuine support** that really **sets her apart from the crowd**. I'd describe **her** as someone who is **compassionate, trustworthy, and remarkably selfless** - qualities that are **hard to come by**.
+
+I remember one particular occasion when **I was going through a family crisis, and she dropped everything to be there for me. She listened without judgment and helped me navigate through the difficult period**. This really **showed me what kind of caring person she truly is**. It was **at that moment** that I understood **her genuine commitment to our friendship**.
+
+**She** has had a **lasting effect** on me in many ways. **Her** **way of always putting others first** has taught me that **true friendship means being present during both good and difficult times**. I often find myself **following her example of showing empathy** when I face **situations where others need support**.
+
+What makes **her** truly special is **her ability to maintain deep, meaningful relationships**. **She** has this **wonderful way of making everyone feel valued and heard** that **never fails to inspire me**. It's **friends like her** who **make life's journey meaningful**.
+
+All in all, **she** is someone I **treasure beyond words**. I feel **incredibly blessed** to have **her** in my life, and I hope to **maintain our friendship** forever.
+
+---
+
+## **35. Describe a person you know who enjoys working for a family business**
+
+I'd like to talk about **my friend Marco**, who is someone I **have tremendous respect for**. **He** is **a third-generation baker in his early thirties** and we **first met through a local business association** **three years ago**.
+
+What strikes me most about **him** is **his** **remarkable** pride in continuing his family legacy. **He** has this **natural talent for traditional bread-making while innovating with modern flavors** that really **makes him stand out**. I'd describe **him** as someone who is **passionate, skilled, and deeply rooted in tradition** - qualities that are **quite rare these days**.
+
+I remember one particular occasion when **he showed me around his family's bakery that his grandfather founded in 1965. His enthusiasm while explaining each recipe's history was absolutely infectious**. This really **opened my eyes to the meaning of family heritage in business**. It was **from that experience** that I understood **his genuine love for his work**.
+
+**He** has had a **significant influence** on me in many ways. **His** **way of balancing tradition with innovation** has taught me that **family businesses can thrive by respecting the past while embracing the future**. I often find myself **thinking about his approach to business** when I face **decisions about career and values**.
+
+What makes **him** truly special is **his ability to see the bakery not just as a business but as a family mission**. **He** has this **amazing ability to connect customers with generations of family tradition** that **constantly motivates me**. It's **people like him** who **preserve cultural heritage through commerce**.
+
+All in all, **he** is someone I **consider a role model for entrepreneurship**. I feel **truly inspired** by **his dedication**, and I hope to **continue learning from his business philosophy** for years to come.
+
+---
+
+## **36. Describe a creative person (e.g. an artist, a musician, an architect, etc.) you admire**
+
+I'd like to talk about **my friend Olivia**, who is someone I **find absolutely fascinating**. **She** is **a contemporary artist and sculptor in her mid-thirties** and we **first met at an art gallery opening** **two years ago**.
+
+What strikes me most about **her** is **her** **exceptional** creative vision and originality. **She** has this **incredible ability to transform recycled materials into thought-provoking sculptures** that really **makes her stand out**. I'd describe **her** as someone who is **innovative, bold, and environmentally conscious** - qualities that are **hard to come by**.
+
+I remember one particular occasion when **she explained how she created a massive installation from discarded plastic bottles to raise awareness about ocean pollution. Her artistic message combined beauty with social responsibility**. This really **opened my eyes to art's power to inspire change**. It was **from that experience** that I understood **her true mission as an artist**.
+
+**She** has had a **profound impact** on me in many ways. **Her** **way of using art as a medium for social commentary** has taught me that **creativity can be both beautiful and purposeful**. I often find myself **thinking about her innovative approach** when I face **challenges requiring creative problem-solving**.
+
+What makes **her** truly special is **her ability to see potential in things others consider waste**. **She** has this **wonderful way of challenging conventional thinking about art and materials** that **never fails to inspire me**. It's **individuals of her caliber** who **redefine artistic boundaries**.
+
+All in all, **she** is someone I **look up to tremendously**. I feel **incredibly fortunate** to know **her**, and I hope to **continue following her artistic journey** for years to come.
+
+---
+
+## **37. Describe a singer whose music/songs you like**
+
+I'd like to talk about **Ed Sheeran**, who is someone I **admire greatly**. **He** is **an internationally acclaimed singer-songwriter** and we **have never met, but I've followed his music** **for over a decade**.
+
+What strikes me most about **him** is **his** **outstanding** songwriting ability and authentic style. **He** has this **genuine talent for crafting emotionally resonant songs with simple yet powerful lyrics** that really **makes him stand out**. I'd describe **him** as someone who is **talented, humble, and remarkably relatable** - qualities that are **quite rare in the music industry**.
+
+I remember one particular occasion when **I attended his concert and witnessed how he commanded the entire stadium with just his guitar and voice. His raw talent and connection with the audience were absolutely mesmerizing**. This really **opened my eyes to the power of authentic musical performance**. It was **from that experience** that I understood **his genuine artistry**.
+
+**He** has had a **significant influence** on me in many ways. **His** **way of staying true to himself despite fame** has taught me that **authenticity resonates more deeply than pretense**. I often find myself **listening to his music** when I face **emotional situations requiring comfort or inspiration**.
+
+What makes **him** truly special is **his ability to write songs that feel personal yet universal**. **He** has this **incredible knack for expressing emotions that everyone can relate to** that **constantly moves me**. It's **artists like him** who **remind us of music's power to connect people**.
+
+All in all, **he** is someone I **have the utmost respect for as an artist**. I feel **incredibly grateful** for **his music**, and I hope to **continue enjoying his songs** for years to come.

@@ -1,4 +1,4 @@
-# IELTS Speaking Part 2 - Complete Answers for All 12 MEDIA/ENTERTAINMENT Questions
+# IELTS Speaking Part 2 - Complete Answers for All 14 MEDIA/ENTERTAINMENT Questions
 ## (Band 7-7.5 Standard - 2 minutes each)
 
 ---
@@ -115,23 +115,55 @@ All in all, **that Tesla advertisement** was a commercial I **found both impress
 
 ---
 
-## **8. Describe an impressive English lesson you had and enjoyed**
+## **8. Describe a line (or a few words) that you remember from a poem or song**
 
-I'd like to talk about **a creative writing workshop in my advanced English class**, which is a lesson I **find absolutely memorable**. **This session** was conducted **by our literature teacher who encouraged us to write short stories using different narrative techniques** and I **participated actively** **during my final year of high school**.
+I'd like to talk about **the line "Do not go gentle into that good night" from Dylan Thomas's poem**, which is a phrase I **find absolutely powerful**. **This line** comes from **a villanelle written by the Welsh poet about resisting death** and I **first encountered it during a literature class** **in my university**.
 
-What strikes me most about **this English lesson** is **its** **exceptional** combination of creativity and technical skill development. **The class** had this **incredible ability to make grammar and style feel relevant through practical application** that really **set it apart from traditional lecture-based lessons**. I'd describe **the experience** as **engaging, creative, and remarkably educational** - qualities that are **quite rare in language learning**.
+What strikes me most about **this poetic line** is **its** **exceptional** combination of defiance and lyrical beauty. **The phrase** has this **incredible ability to capture both rage and love in five simple words** that really **sets it apart from typical motivational quotations**. I'd describe **the line** as **evocative, memorable, and remarkably profound** - qualities that are **quite rare in contemporary poetry**.
 
-I remember one particular moment when **our teacher asked us to rewrite the same story from three different perspectives, and I discovered how point of view completely changes the reader's understanding and emotional connection**. This really **opened my eyes to the power of narrative technique in communication**. It was **at that moment** that I understood **the true artistry involved in effective writing**.
+I remember one particular moment when **our professor explained that Thomas wrote this poem for his dying father, urging him to fight against death rather than accept it passively, and the entire class fell silent as the emotional weight of the words settled in**. This really **opened my eyes to how poetry can express complex emotions concisely**. It was **at that moment** that I understood **the true power of carefully chosen words**.
 
-**This lesson** has had a **profound impact** on me in many ways. **The** **hands-on approach to learning writing techniques** has taught me that **language skills develop best through practice rather than memorization**. I often find myself **thinking about narrative perspectives and writing techniques** when I face **situations requiring clear and persuasive communication**.
+**This line** has had a **profound impact** on me in many ways. **The** **message of resistance and passion** has taught me that **fighting for what matters is more important than passive acceptance**. I often find myself **thinking about this phrase** when I face **challenges that require determination and courage**.
 
-What makes **this lesson** truly impressive is **its lasting influence on my communication skills**. **The workshop** has this **wonderful way of making abstract concepts concrete through creative practice** that **never fails to remind me of the importance of engaging teaching methods**. It's **lessons like this** that **make language learning both enjoyable and practical**.
+What makes **this line** truly memorable is **its universal application beyond its original context**. **The phrase** has this **wonderful way of inspiring people in various life situations** that **never fails to provide motivation during difficult times**. It's **lines like this** that **demonstrate poetry's enduring relevance**.
 
-All in all, **that creative writing workshop** was a class I **treasure as a turning point in my English development**. I feel **incredibly grateful** for **the creative confidence it built**, and I hope to **continue applying those writing techniques** in my academic and professional communication.
+All in all, **"Do not go gentle into that good night"** is a line I **treasure as a source of inspiration**. I feel **incredibly moved** by **its emotional intensity**, and I hope to **continue discovering poetry that speaks so directly to the human experience**.
 
 ---
 
-## **9. Describe an interesting song**
+## **9. Describe an interesting traditional story**
+
+I'd like to talk about **the Bengali folk tale of Thakurmar Jhuli**, which is a story I **find absolutely enchanting**. **This collection** contains **traditional stories passed down through generations featuring magical elements and moral lessons** and I **first heard these tales from my grandmother** **during childhood**.
+
+What strikes me most about **these traditional stories** is **their** **exceptional** ability to convey cultural values through entertainment. **The tales** have this **incredible way of teaching life lessons while captivating listeners with fantastical adventures** that really **set them apart from modern children's stories**. I'd describe **the collection** as **imaginative, culturally rich, and remarkably timeless** - qualities that are **quite rare in storytelling**.
+
+I remember one particular moment when **my grandmother told me the story of a poor boy who received magical powers from a fairy but had to use them wisely to help others rather than for personal gain**. This really **opened my eyes to how folklore preserves ethical teachings across generations**. It was **at that moment** that I understood **the true educational value of traditional narratives**.
+
+**These traditional stories** have had a **profound impact** on me in many ways. **The** **moral lessons embedded in entertaining narratives** has taught me that **the most effective teaching often comes through storytelling rather than direct instruction**. I often find myself **thinking about these folk tales** when I face **ethical decisions or want to understand Bengali cultural values**.
+
+What makes **these stories** truly interesting is **their role in cultural preservation and identity**. **The tales** have this **wonderful way of connecting modern generations with ancestral wisdom and cultural heritage** that **never fails to remind me of my roots**. It's **stories like these** that **maintain cultural continuity in changing times**.
+
+All in all, **Thakurmar Jhuli** is a collection I **treasure as cultural inheritance**. I feel **incredibly grateful** for **the wisdom and imagination these stories provide**, and I hope to **pass them on to future generations** to preserve our cultural traditions.
+
+---
+
+## **10. Describe a book you read that you found useful**
+
+I'd like to talk about **"Atomic Habits" by James Clear**, which is a book I **find absolutely practical**. **This self-help book** explains **how small, incremental changes in daily habits can lead to remarkable long-term results** and I **read it last year** **when I was struggling with productivity and goal achievement**.
+
+What strikes me most about **this book** is **its** **exceptional** balance of scientific research and actionable advice. **The content** has this **incredible ability to explain behavioral psychology in accessible terms while providing concrete implementation strategies** that really **sets it apart from theoretical self-help literature**. I'd describe **the book** as **evidence-based, practical, and remarkably systematic** - qualities that are **quite rare in the self-improvement genre**.
+
+I remember one particular moment when **the author explained the concept of "habit stacking" - building new habits by attaching them to existing routines - and I immediately applied this to my morning routine with remarkable success**. This really **opened my eyes to the power of understanding behavioral mechanics**. It was **at that moment** that I understood **the true science behind habit formation and change**.
+
+**This book** has had a **profound impact** on me in many ways. **The** **frameworks for building good habits and breaking bad ones** has taught me that **sustainable change comes from systems rather than motivation alone**. I often find myself **thinking about habit formation principles** when I face **challenges in maintaining consistency with my goals**.
+
+What makes **this book** truly useful is **its immediate applicability to daily life**. **The content** has this **wonderful way of translating research into practical steps that anyone can implement** that **never fails to deliver tangible results**. It's **books like this** that **bridge the gap between knowledge and action**.
+
+All in all, **"Atomic Habits"** is a book I **consider essential reading for personal development**. I feel **incredibly empowered** by **the systems thinking it teaches**, and I hope to **continue applying these principles** to achieve my long-term goals.
+
+---
+
+## **11. Describe an interesting song**
 
 I'd like to talk about **"Bohemian Rhapsody" by Queen**, which is a song I **find absolutely captivating**. **This piece** was **composed by Freddie Mercury and released in 1975** and I **first heard it during a music appreciation class** **in my university**.
 
@@ -147,7 +179,7 @@ All in all, **"Bohemian Rhapsody"** is a song I **consider a masterpiece of popu
 
 ---
 
-## **10. Describe a TV series you like**
+## **12. Describe a TV series you like**
 
 I'd like to talk about **"Breaking Bad"**, which is a series I **find absolutely gripping**. **This show** follows **a high school chemistry teacher who turns to manufacturing drugs after a cancer diagnosis** and I **binge-watched all five seasons** **during summer vacation last year**.
 
@@ -163,7 +195,7 @@ All in all, **"Breaking Bad"** is a series I **consider a masterclass in storyte
 
 ---
 
-## **11. Describe a movie you watched recently**
+## **13. Describe a movie you watched recently**
 
 I'd like to talk about **"Dune" directed by Denis Villeneuve**, which is a film I **find absolutely spectacular**. **This movie** is **a science fiction epic based on Frank Herbert's classic novel** and I **watched it in IMAX format** **two months ago with friends**.
 
@@ -179,7 +211,7 @@ All in all, **"Dune"** is a movie I **consider a triumph of modern filmmaking**.
 
 ---
 
-## **12. Describe an online video in which you learned something new**
+## **14. Describe an online video in which you learned something new**
 
 I'd like to talk about **a YouTube tutorial on machine learning fundamentals**, which is a video I **find absolutely educational**. **This content** was created **by a computer science professor from MIT and covers basic neural network concepts** and I **discovered it while researching artificial intelligence** **for a university project**.
 

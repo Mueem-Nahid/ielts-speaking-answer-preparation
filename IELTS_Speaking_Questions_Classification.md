@@ -33,6 +33,13 @@
 - Describe a person who has strong opinions
 - Describe someone (a famous person) that is a role model for young people
 - Describe an old friend you had lost touch with and got in contact with again
+- Describe a successful sportsperson you admire
+- Describe a good habit your friend has, and you want to develop
+- Describe a friend of yours who is good at music/singing
+- Describe a good friend who is important to you
+- Describe a person you know who enjoys working for a family business (e.g. a shop, etc.)
+- Describe a creative person (e.g. an artist, a musician, an architect, etc.) you admire
+- Describe a singer whose music/songs you like
 
 ### 2. PLACES (Location-related questions)
 - Describe a place in your country or part of your country that you would like to recommend to visitors/travelers
@@ -53,6 +60,7 @@
 - Describe an ideal and perfect place where you would like to stay (e.g. a house, an apartment)
 - Describe a crowded place you have visited
 - Describe an unusual but interesting building you would like to visit
+- Describe someone else's room you enjoy spending time in
 
 ### 3. EXPERIENCES/EVENTS (Time-based experiences)
 - Describe a time when you forgot/missed an appointment
@@ -80,6 +88,13 @@
 - Describe an occasion when you helped a family member/relative with something
 - Describe a time that you showed something new to others
 - Describe a time when missed or were late for an important meeting/event
+- Describe a time you saw something interesting on social media
+- Describe the time when you first talked in a foreign language
+- Describe a time when someone apologized to you
+- Describe an occasion when you lost your way
+- Describe a time when the electricity suddenly went off
+- Describe a time when you broke something
+- Describe a long journey you had and would like to take again
 
 ### 4. OBJECTS/THINGS (Physical items and abstract concepts)
 - Describe a photo you took that you are proud of
@@ -101,6 +116,8 @@
 - Describe a picture/photograph of you that you like
 - Describe a photo that you enjoy looking at
 - Describe a prize you have received recently (e.g. money, something valuable, a medal)
+- Describe a piece of technology you own that you feel is difficult to use
+- Describe an important old thing that your family has kept for a long time
 
 ### 5. ACTIVITIES/SKILLS/HOBBIES (Actions and abilities)
 - Describe an outdoor sport you would like to do
@@ -117,6 +134,8 @@
 - Describe something you did in your study/work that has made you feel confident
 - Describe something you do that can help you concentrate on work/study
 - Describe something that you did with someone/a group of people
+- Describe an exciting activity you have tried for the first time
+- Describe a place you went to and an outdoor activity you did there
 
 ### 6. MEDIA/ENTERTAINMENT (Films, shows, websites, etc.)
 - Describe a film that made you laugh
@@ -131,6 +150,8 @@
 - Describe an interesting song
 - Describe a movie you watched recently
 - Describe an online video in which you learned something new
+- Describe an interesting traditional story
+- Describe a book you read that you found useful
 
 ### 7. EVENTS/COMPETITIONS/PERFORMANCES (Organized events)
 - Describe a sports event you would like to watch
@@ -147,6 +168,8 @@
 - Describe a disagreement you had with someone
 - Describe an interesting discussion you had with your friend
 - Describe a story someone told you and you remember
+- Describe a talk you gave to a group of people
+- Describe a time when you told your friend an important truth
 
 ### 9. EDUCATION/LEARNING (Academic and learning experiences)
 - Describe an impressive English lesson you had and enjoyed
@@ -165,10 +188,12 @@
 - Describe a plan that you had to change recently
 - Describe a time you made a promise to someone
 - Describe an ambition that you haven't achieved
+- Describe an important decision made with the help of other people
 
 ### 12. FOOD/DINING (Food-related experiences)
 - Describe a kind of foreign food you like and you have had
 - Describe your favourite food at a traditional festival or a special event in your country
+- Describe a great dinner you and your friends or family members enjoyed
 
 ### 13. SERVICES/SHOPPING (Service experiences)
 - Describe a problem you had while shopping online or in a store
@@ -178,30 +203,33 @@
 ### 14. NATURE/ENVIRONMENT (Natural elements)
 - Describe a beautiful sky you enjoyed seeing
 - Describe a way/change that helps you save a lot of time
+- Describe a time when you saw something in the sky (e.g. flying kites, birds, sunset, etc.)
+- Describe a wild animal that you want to learn more about
 
 ### 15. CHALLENGES/DIFFICULTIES (Problem-solving situations)
 - Describe a challenge you faced that you thought was rather difficult
 
 ## Summary by Category Count:
-1. **PEOPLE**: 30 questions
-2. **PLACES**: 18 questions  
-3. **EXPERIENCES/EVENTS**: 25 questions
-4. **OBJECTS/THINGS**: 19 questions
-5. **ACTIVITIES/SKILLS/HOBBIES**: 14 questions
-6. **MEDIA/ENTERTAINMENT**: 12 questions
+1. **PEOPLE**: 37 questions
+2. **PLACES**: 19 questions  
+3. **EXPERIENCES/EVENTS**: 32 questions
+4. **OBJECTS/THINGS**: 21 questions
+5. **ACTIVITIES/SKILLS/HOBBIES**: 16 questions
+6. **MEDIA/ENTERTAINMENT**: 14 questions
 7. **EVENTS/COMPETITIONS/PERFORMANCES**: 7 questions
-8. **CONVERSATIONS/INTERACTIONS**: 5 questions
+8. **CONVERSATIONS/INTERACTIONS**: 7 questions
 9. **EDUCATION/LEARNING**: 5 questions
 10. **WORK/CAREER**: 2 questions
-11. **DECISIONS/PLANS**: 5 questions
-12. **FOOD/DINING**: 2 questions
+11. **DECISIONS/PLANS**: 6 questions
+12. **FOOD/DINING**: 3 questions
 13. **SERVICES/SHOPPING**: 3 questions
-14. **NATURE/ENVIRONMENT**: 2 questions
+14. **NATURE/ENVIRONMENT**: 4 questions
 15. **CHALLENGES/DIFFICULTIES**: 1 question
 
-**Total Questions Classified**: 150 questions
+**Total Questions Classified**: 177 questions
 
 ## Notes:
 - Some questions could fit into multiple categories, but they've been placed in the most appropriate primary category
-- The largest categories are PEOPLE (30), EXPERIENCES/EVENTS (25), and OBJECTS/THINGS (19)
+- The largest categories are PEOPLE (37), EXPERIENCES/EVENTS (32), and OBJECTS/THINGS (21)
+- This classification now includes questions from Makkar's Sep-Dec 2025 Speaking Guesswork
 - This classification can help in preparing structured responses for different types of IELTS Speaking Part 2 questions
