@@ -1,4 +1,5 @@
 1) Dec 27, 2022 â€” Some people think that social networking sites have a huge negative impact on both individuals and society. To what extent do you agree or disagree? (Opinion essay)
+
 Social networking platforms have transformed how people communicate, work and access information. While some argue they have a severely negative impact on individuals and society, I believe the picture is mixed; social media brings real benefits, yet unregulated or excessive use can be damaging. On balance, I partly agree with the concerns and advocate for measured, responsible use supported by better policy and education.
 
 On the positive side, social networks connect friends and families across borders, facilitate professional networking, and amplify marginalized voices. During emergencies and social movements, they can disseminate critical information rapidly. Small businesses also leverage targeted advertising and direct engagement to compete with larger firms, which can promote economic inclusivity.
@@ -10,6 +11,7 @@ In my view, the issue is not the technology itself but the incentives and habits
 In conclusion, social networking sites can harm both individuals and society when poorly regulated and consumed without intention. Yet, with robust safeguards and informed use, their benefitsâ€”connection, opportunity, and information sharingâ€”can be realized without the worst adverse effects. I therefore partially agree with the statement but see a clear path to mitigation.
 
 2) Dec 25, 2022 â€” Online currencies have become more common in recent years. Why is this? Is this a positive or negative development? (Cause & effect + opinion)
+
 Digital currencies, including cryptocurrencies and central bank digital currencies (CBDCs), have grown rapidly in recent years. Several forces explain this rise, and the overall implications are mixed, though I believe the development is broadly positive if accompanied by sound regulation.
 
 The first driver is technological progress. Distributed ledger systems enable near-instant, borderless transactions with transparent records. This appeals to globalized commerce and remittances, where traditional cross-border payments can be slow and expensive. Second, financial inclusion motivates adoption; digital wallets can reach unbanked populations via smartphones, allowing participation in commerce and savings. Third, investors are attracted by innovation and potential returns, which fuels demand and ecosystem development. Finally, the pandemic accelerated digitalization, normalizing cashless transactions and e-commerce.
@@ -21,6 +23,7 @@ Despite these drawbacks, I consider the shift largely positive if authorities im
 In conclusion, online currencies have expanded due to technological capability, financial inclusion goals, investor interest, and broader digitization. The development can be beneficialâ€”lower costs, faster payments, and broader accessâ€”provided that governments and industry prioritize stability, transparency, and user protection.
 
 3) Dec 24, 2022 â€” Some people think that it is good for a countryâ€™s culture to import foreign movies and TV programmes. Others think that it is better to produce these locally. (Discussion essay)
+
 Cultural industries are central to national identity and economic development. Some argue that importing foreign films and programmes enriches a countryâ€™s culture, whereas others believe local production should be prioritized. Both views have merit; in my opinion, the optimal approach balances exposure to global content with robust support for domestic creators.
 
 Proponents of foreign media stress its educational and artistic value. High-quality international productions expose audiences to diverse narratives, techniques, and perspectives, broadening horizons. This cross-pollination can inspire local filmmakers to innovate and raise standards. Moreover, importing content can be cost-effective in small markets that cannot fund a full pipeline of genres and formats.
@@ -32,6 +35,7 @@ I believe countries should pursue a dual strategy. Reasonable quotas or funding 
 In conclusion, importing foreign media enriches cultural diversity, but sustained investment in domestic production is essential for cultural vitality and economic resilience. A balanced policyâ€”access plus capacity-buildingâ€”best serves both audience interests and national cultural development.
 
 4) Dec 21, 2022 â€” As the number of cars increases, more money has to be spent on road systems. Some people think the government should pay for this. Others, however, think that drivers should cover the costs. Discuss both views and give your opinion. (Discussion essay)
+
 As car ownership rises, governments face mounting expenses to expand and maintain road infrastructure. Some argue that these costs should be borne by the state, while others believe drivers should pay. Both positions have logic; I contend a mixed funding model is fairest and most efficient.
 
 Those supporting government funding emphasize roads as public goods that underpin economic activity and social mobility. Tax-funded infrastructure ensures universal access, including for emergency services and public transport. National planning allows integrated networks that would be challenging to finance piecemeal. Furthermore, state financing can smooth out regional disparities; areas with fewer drivers still require safe roads.
@@ -43,6 +47,7 @@ In my view, a hybrid model works best. Baseline road networks, especially in rur
 In sum, roads serve the entire economy, but drivers impose specific costs. Combining general taxation with smart user fees delivers fairness, efficiency, and environmental benefits.
 
 5) Dec 12, 2022 â€” Many people today argue that cinemas are becoming irrelevant due to new streaming services. To what extent do you agree or disagree? (Opinion essay)
+
 The proliferation of streaming services has led many to claim that cinemas are losing relevance. Although on-demand platforms have reshaped viewing habits, I disagree that theatres are obsolete. Cinemas retain distinct social, technical, and cultural value that complementsâ€”not competes withâ€”home streaming.
 
 First, the cinema experience is inherently social and immersive. Large screens, calibrated sound, and a distraction-free environment foster shared emotional responses that living rooms rarely replicate. This is particularly true for spectacle-driven genresâ€”epics, science fiction, and animationâ€”whose visual and auditory details are designed for theatrical presentation. For filmmakers, this venue remains the canvas for artistic intent.
@@ -56,6 +61,7 @@ The future, therefore, is coexistence. Cinemas can innovate through dynamic pric
 In conclusion, streaming has transformed consumption but has not erased the unique value of cinemas. Theatrical exhibition will remain relevant by evolving and emphasizing experiences that home viewing cannot easily match.
 
 6) Dec 11, 2022 â€” Some people say that to prevent illness and disease, governments should focus more on reducing environmental pollution and housing problems. To what extent do you agree or disagree? (Opinion essay)
+
 Public health is shaped by social and environmental determinants. The view that governments should prioritize reducing pollution and addressing housing problems to prevent disease is, in my opinion, well-founded. While clinical services remain crucial, prevention requires structural interventions.
 
 Air and water pollution are linked to respiratory illnesses, cardiovascular disease, and cancers. Tightening emissions standards, transitioning to clean energy, and improving waste management can substantially lower disease burdens. For example, cities that replaced diesel buses with electric fleets recorded fewer asthma-related hospital visits. Likewise, water treatment and industrial regulation reduce gastrointestinal and neurological disorders.
@@ -69,6 +75,7 @@ To be clear, prevention should not replace primary care or vaccination programs;
 In conclusion, prioritizing pollution reduction and housing improvements is a prudent, evidence-based path to disease prevention. Governments that invest in these determinants create healthier populations and more sustainable economies.
 
 7) Dec 10, 2022 â€” Some employers are giving more value on hiring people with good social skills apart from good qualifications. Do you agree or disagree that social skills are just as crucial as good qualifications for success at work? (Opinion essay)
+
 In contemporary workplaces, employers increasingly value interpersonal abilities in addition to formal qualifications. I agree that social skills are as crucial as credentials for long-term success. While technical knowledge opens doors, people skills often determine how far one advances.
 
 Firstly, modern work is collaborative. Teams must coordinate across functions, cultures, and time zones. Employees who can listen actively, resolve conflicts, and build trust accelerate projects and foster innovation. For instance, a highly qualified engineer who communicates poorly can derail a product launch, whereas a competent communicator can align stakeholders and overcome obstacles.
@@ -82,6 +89,7 @@ Therefore, hiring and training should reflect a balanced model. Organizations ca
 In conclusion, social skills are not a â€œnice-to-haveâ€ but a co-equal pillar of workplace success. Combining qualifications with strong interpersonal abilities produces resilient, high-performing professionals who add value beyond their job descriptions.
 
 8) Dec 7, 2022 â€” Some people believe that children of all ages should have extra responsibilities (for example, helping at home or at work). Others believe that, outside of school, children should be free to enjoy their lives. Discuss both views and give your own opinion. (Discussion essay)
+
 Whether children should take on extra responsibilities outside school or be free to enjoy their time is a perennial debate. Both perspectives prioritize childrenâ€™s well-being but differ in their approach. I believe age-appropriate responsibilities are beneficial if balanced with ample leisure.
 
 Supporters of additional responsibilities argue these tasks cultivate independence and life skills. Helping at homeâ€”doing laundry, cooking simple meals, or caring for petsâ€”teaches accountability, time management, and cooperation. Early exposure to responsibility can build self-efficacy, making transitions to adolescence and adulthood smoother. Moreover, contributing to family duties fosters empathy and a sense of belonging.
@@ -95,6 +103,7 @@ Schools can reinforce this balance by incorporating project-based learning and s
 In conclusion, responsibilities and free time are not mutually exclusive. Carefully calibrated duties can empower children while safeguarding space for play, friendships, and discovery.
 
 9) Dec 2, 2022 â€” In recent years, there has been growing interest in the relationship between equality and personal achievement. Some people believe that individuals can achieve more in egalitarian societies. Others believe that high levels of personal achievement are possible only if individuals are free to succeed or fail according to their individual merits. Discuss both sides and give your own opinion. (Discussion essay)
+
 The relationship between equality and individual achievement is complex. Some argue that egalitarian societies enable greater accomplishments, while others contend that freedom to succeed or fail drives excellence. I believe high levels of personal achievement emerge most reliably where equality of opportunity coexists with merit-based rewards.
 
 Egalitarian systems reduce barriers that waste talent. When education, healthcare, and basic security are accessible, more people can reach their potential. For example, subsidized higher education expands the pool of innovators, as seen in countries with strong social safety nets and robust research output. Additionally, social cohesion reduces chronic stress, which improves cognitive performance and productivity.
@@ -108,6 +117,7 @@ The optimal arrangement, therefore, combines both. Guaranteeing universal access
 In conclusion, equality and achievement need not be in tension. Societies that align equality of opportunity with meritocratic incentives typically see broader participation in excellence and sustainable growth.
 
 10) Nov 30, 2022 â€” Doing an enjoyable activity with a child is better for their overall skills development and creativity than reading. To what extent do you agree? (Opinion essay)
+
 Some claim that engaging in enjoyable activities with children is better for overall development and creativity than reading. I disagree with this strict comparison. Both play and reading are essential and mutually reinforcing; the best outcomes arise when they are integrated.
 
 Play-based activities develop fine and gross motor skills, problem-solving, and social competence. Building with blocks, role-playing, or outdoor games stimulate imagination and collaboration. These experiences provide concrete contexts for language, making future reading more meaningful. Moreover, shared activities strengthen emotional bonds, which are foundational for learning.
@@ -121,6 +131,7 @@ In summary, enjoyable activities and reading are not competitors but complementa
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 11) Nov 25, 2022 â€” Learning at university would be more effective if men and women were educated separately. To what extent do you agree or disagree? (Opinion essay)
+
 The suggestion that university learning would be more effective if men and women studied separately remains contentious. I largely disagree; mixed-gender education better prepares students for real-world environments and enhances academic richness, provided institutions address specific equity issues.
 
 Co-educational settings mirror professional contexts where diverse teams collaborate. Learning to communicate across genders develops interpersonal skills valuable in workplaces. In seminars, mixed perspectives yield deeper analysis, particularly in disciplines where gendered experiences shape understandingâ€”health, law, or sociology.
@@ -136,6 +147,7 @@ In conclusion, while single-gender options can be valuable in certain contexts, 
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 12) Nov 16, 2022 â€” Some people believe more actions can be taken to prevent crime, while others think that little can be done. Discuss both sides and give your own opinion. (Discussion essay)
+
 Opinions diverge on whether additional measures can meaningfully prevent crime or whether society has reached a limit. I believe there remains substantial scope for prevention, particularly by addressing root causes and leveraging technology ethically.
 
 Proponents of the â€œlittle can be doneâ€ view note that crime is persistent and partly driven by human nature. They argue that incremental policy changes yield diminishing returns and that excessive policing can erode civil liberties. Moreover, some crime types migrate rather than disappear, as with cybercrime.
@@ -151,6 +163,7 @@ In sum, crime is not immutable. By targeting risk factors, improving environment
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 13) Nov 11, 2022 â€” Some argue that patriotism is the primary cause of wars globally. Others feel that it serves to prevent less ethical politicians from running a country and starting wars. Discuss both views and give your opinion. (Discussion essay)
+
 Some claim patriotism fuels war, while others argue it protects nations from unethical leaders and conflicts. In reality, patriotism is a double-edged sword: it can be exploited to justify aggression, yet it can also mobilize citizens to resist tyranny and uphold international law.
 
 On the negative side, extreme nationalism can dehumanize outsiders and stifle dissent. Leaders have historically used patriotic rhetoric to rally support for expansionist aims or to distract from domestic failures. When patriotism becomes unquestioning loyalty, it enables manipulation and suppresses critical debate that could prevent conflict.
@@ -166,6 +179,7 @@ In conclusion, patriotism itself does not inevitably cause war; its misuse does.
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 14) Nov 7, 2022 â€” Some feel that punishment should focus more on rehabilitation instead of long prison terms. Others feel prison terms are important for social stability. Discuss both sides and give your opinion. (Discussion essay)
+
 Debate persists over whether punishment should emphasize rehabilitation or rely on lengthy incarceration to ensure social stability. I contend that rehabilitation should be the priority for most offenders, while proportionate prison terms remain necessary for serious crimes and public safety.
 
 Long sentences may deter some crime and incapacitate dangerous individuals. They can reassure the public and provide time for investigations. However, evidence indicates diminishing returns: extended incarceration often increases recidivism by severing social ties and limiting employment prospects. Overcrowded prisons strain budgets without delivering commensurate benefits.
@@ -181,6 +195,7 @@ In summary, social stability is best achieved through smart justice: rehabilitat
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 15) Nov 2, 2022 â€” Some young people like to copy the behaviour and clothes of famous people today. Why might this be the case? What problems can it cause? (Two-part question)
+
 Young people often emulate famous figuresâ€™ behavior and fashion. This tendency arises from psychological, social, and technological factors, and it can create several challenges.
 
 One reason is identity formation. Adolescence is a period of experimentation; celebrities provide ready-made templates for style and values. Social media intensifies parasocial relationships, making fans feel personally connected to public figures. Algorithms further amplify celebrity content, normalizing their choices and accelerating trends. Peer pressure also plays a role: adopting popular looks can secure social acceptance.
@@ -199,6 +214,7 @@ In conclusion, emulating celebrities is understandable but can be harmful withou
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 1) Dec 30, 2023 â€” Nowadays, there is more and more competition for getting into university. Is this a positive or negative development? (Advantage/Disadvantage essay)
+
 The increasing competition for university admission is a defining feature of modern education systems. While this trend can spur academic excellence, it also poses risks to equity and student well-being. On balance, I view it as a mixed development that requires policy intervention.
 
 On the positive side, competition motivates students to work diligently, pursue extracurricular activities, and develop strong study habits. Universities, in turn, raise standards, enhancing research quality and graduate outcomes. Employers benefit from a larger pool of capable candidates, contributing to national productivity.
@@ -212,6 +228,7 @@ Furthermore, moderate quotas for first-generation or regional applicants, combin
 In conclusion, competition can drive performance but must not become an unhealthy arms race. With diversified opportunities and equitable policies, societies can harness the benefits while mitigating the drawbacks.
 
 2) Dec 25, 2023 â€” The demand for coaching services has grown significantly in the digital age, with online coaching platforms becoming prevalent. Some now feel online coaching is a superior option to in-person coaching. To what extent do you agree or disagree? (Opinion essay)
+
 The digital age has seen an explosion in online coaching platforms across domains from fitness to career development. Although virtual coaching offers significant advantages, I do not believe it is inherently superior to in-person coaching; the best choice depends on goals, context, and individual learning preferences.
 
 Online coaching excels in accessibility and flexibility. Clients can schedule sessions across time zones, choose from a global pool of coaches, and review recorded sessions. Digital toolsâ€”shared dashboards, progress trackers, and messagingâ€”enhance accountability. Costs are often lower due to reduced overheads, broadening access.
@@ -225,6 +242,7 @@ In addition, data security and privacy require careful handling online. Clear co
 In summary, online coaching is a powerful alternative but not universally superior. Matching modality to objectives, and blending formats where feasible, delivers the best results.
 
 3) Dec 4, 2023 â€” Financial education should be included as a mandatory subject in schools to prepare students for managing money effectively. To what extent do you agree or disagree? (Opinion essay)
+
 Calls to make financial education compulsory reflect widespread concerns about debt, low savings, and complex financial products. I strongly support integrating financial literacy into school curricula, though it must be practical, age-appropriate, and complemented by consumer protections.
 
 Financial skills are life skills. Understanding budgeting, compound interest, credit scores, and basic investing can prevent costly mistakes and enhance economic mobility. Early exposure instills habits such as saving and goal-setting. Countries that embedded financial literacy often report improved behaviors, including higher participation in retirement plans.
@@ -240,6 +258,7 @@ In conclusion, mandatory financial education is an essential part of preparing s
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 4) Dec 2, 2023 â€” Some people think the manufacturers and shopping malls should sell fewer packaged products while others argue that people have the responsibility to buy products with less packaging. Discuss both views and give your own opinion. (Discussion essay)
+
 Excessive packaging contributes to waste and pollution. Some argue that manufacturers and retailers should sell fewer packaged products, while others insist consumers must choose options with less packaging. Both parties share responsibility, but producers should lead due to their greater control and scale.
 
 Producers design packaging and supply chains. By adopting eco-design principlesâ€”right-sizing, recyclable materials, and refill systemsâ€”they can reduce waste before it is created. Extended Producer Responsibility (EPR) policies, where firms finance collection and recycling, incentivize sustainable choices. Retailers can support bulk aisles, standardized returnable containers, and clear labelling to guide customers.
@@ -255,6 +274,7 @@ In summary, while consumers play an important role, producers and policymakers h
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 5) Nov 17, 2023 â€” Environmental damage is a problem in most countries. What is the cause of this damage? What should be done about this problem? (Problem/Solution essay)
+
 Environmental degradation stems from intertwined drivers: unsustainable resource extraction, fossil fuel dependence, industrial agriculture, and linear â€œtake-make-disposeâ€ consumption. Urban sprawl and weak governance exacerbate these pressures.
 
 Addressing this requires coordinated action. Governments should price externalities through carbon taxes or cap-and-trade systems, directing revenue to clean energy and just transition programs. Strengthening environmental regulations, monitoring, and enforcement can curb pollution and habitat loss. Investment in public transport and compact urban design reduces emissions and preserves land.
@@ -273,6 +293,7 @@ In conclusion, environmental damage is systemic but solvable. Aligning incentive
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 1) Dec 16, 2024 â€” Some countries have legal ages at which people can drink. Other countries believe not having strict laws is a better policy. Discuss both and give your opinion. (Discussion essay)
+
 Countries differ on whether to set legal drinking ages. Some maintain strict age limits to protect youth, while others rely on cultural norms and education. Both models aim to reduce harm; I favor clear minimum ages combined with evidence-based prevention.
 
 Legal ages are grounded in public health. The adolescent brain remains in development; early alcohol use correlates with dependency and cognitive issues. Age limits help delay initiation, reduce access at parties, and simplify enforcement against underage sales. Jurisdictions with robust ID checks and server training often report fewer alcohol-related accidents among youths.
@@ -288,6 +309,7 @@ In summary, clear legal ages are necessary but not sufficient. When combined wit
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 2) Dec 14, 2024 â€” Today, many people do not know their neighbors. Why is this? What can be done about this? (Problem/Solution essay)
+
 Many people today scarcely know their neighbors. Several factors contribute: longer working hours, digital entertainment replacing local leisure, high residential turnover, and urban designs that prioritize cars over public spaces. Apartment living can also limit casual encounters.
 
 To address this, cities should design for interaction. Mixed-use neighborhoods, safe sidewalks, community gardens, and shared courtyards create natural meeting points. Local authorities can support block parties with streamlined permits and small grants. Building managers might facilitate welcome events for new residents.
@@ -303,6 +325,7 @@ In conclusion, anonymity is not inevitable. With intentional design, supportive 
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 3) Dec 4, 2024 â€” Caring for children is probably the most important job in any society. Because of this, all mothers and fathers should be required to take a course that prepares them to be good parents. To what extent do you agree or disagree with this view? (Opinion essay)
+
 Parenting profoundly shapes childrenâ€™s outcomes, leading some to propose compulsory courses for all prospective parents. While the goal of better parenting is laudable, I am cautious about universal mandates. Instead, I support highly accessible, incentivized programs integrated into healthcare and community services.
 
 Mandatory courses raise practical and ethical concerns. Enforcement would be difficult and risks penalizing vulnerable families. A one-size-fits-all curriculum may not respect cultural diversity or unique child needs. Moreover, compulsion can breed resistance rather than engagement.
@@ -318,6 +341,7 @@ In summary, parenting education should be widely available and strongly encourag
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 4) Nov 20, 2024 â€” Some people believe that housing is a basic human right for all individuals. To what extent do you agree or disagree? (Opinion essay)
+
 The assertion that housing is a basic human right reflects the idea that shelter is foundational to dignity, health, and participation in society. I agree with this principle and believe governments should guarantee access to adequate housing, using a range of policy tools.
 
 Stable housing reduces healthcare costs, improves educational outcomes, and enables employment. Market forces alone often fail to house low-income households, especially in high-demand cities with limited supply. Therefore, public intervention is justified.
@@ -333,6 +357,7 @@ In conclusion, recognizing housing as a right guides policy towards inclusive, r
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 5) Nov 3, 2024 â€” Some feel that tourism endangers culture while others feel it is beneficial. Discuss both sides and give your own opinion. (Discussion essay)
+
 Tourismâ€™s impact on culture is ambivalent. On one hand, it can commercialize traditions and displace residents; on the other, it funds preservation and fosters intercultural understanding. I believe tourism can be culturally beneficial if managed thoughtfully.
 
 Negative outcomes arise when destinations pursue volume over value. Overcrowding strains heritage sites, and souvenir markets may reduce rich traditions to stereotypes. Short-term rentals can inflate rents, pushing artists and communities out. Cultural performances staged solely for tourists risk losing authenticity.
@@ -351,6 +376,7 @@ In summary, tourism is not inherently harmful. When communities set the terms an
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 1) Jan 30, 2025 â€” Today many teenagers rely greatly on technology when learning. Is this a positive or negative development? (Advantage/Disadvantage essay)
+
 The growing reliance of teenagers on technology for learning provokes debate. Technology offers unprecedented access and personalization, but it also introduces distractions and equity concerns. Overall, it is a positive development if integrated with pedagogy and supported by safeguards.
 
 Advantages include adaptive learning platforms that tailor content to studentsâ€™ pace, immediate feedback that reinforces understanding, and rich multimedia that brings abstract concepts to life. Collaboration tools facilitate group projects and connect classrooms globally. Assistive technologies support learners with disabilities, enhancing inclusion.
@@ -366,6 +392,7 @@ In conclusion, technology dependence can elevate learning outcomes when used tho
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 2) Jan 24, 2025 â€” Some believe that the government should support artists like musicians, painters, and poets, while others argue that this is a misuse of funds. Discuss both views and give your own opinion. (Discussion essay)
+
 Public funding for the arts divides opinion. Supporters argue that artists enrich culture and public life; critics prefer spending on essential services. I believe governments should fund the arts, provided mechanisms ensure public value and accountability.
 
 The arts generate social and economic returns. They foster creativity, civic identity, and well-being, and they attract tourism and investment. Many formsâ€”experimental theatre, community arts, preservationâ€”are public goods that markets underprovide. Grants can diversify voices and nurture talent that would otherwise be excluded.
@@ -379,6 +406,7 @@ In sum, arts funding is not a luxury but a strategic investment in a vibrant, co
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 3) Jan 22, 2025 â€” Some argue that schools should prioritize life skills such as working in teams and solving problems instead of traditional academics. To what extent do you agree or disagree? (Opinion essay)
+
 Some argue schools should foreground life skillsâ€”teamwork, problem-solvingâ€”over traditional academics. I support elevating life skills but not at the expense of core knowledge. The two are interdependent.
 
 Complex problem-solving requires a knowledge base. Critical thinking in science depends on understanding scientific concepts; collaboration in history projects draws on factual literacy. Conversely, knowledge is inert without the ability to apply it. Therefore, pedagogy should integrate skills and content through authentic tasks.
@@ -392,6 +420,7 @@ In short, schools should not choose between life skills and academics. They shou
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 4) Jan 12, 2025 â€” Some people argue that parents should have a strong influence on their childrenâ€™s choice of friends and life partners. Others believe that young people should make these decisions independently. Discuss both views and give your opinion. (Discussion essay)
+
 Whether parents should strongly influence their childrenâ€™s choice of friends and life partners is sensitive. Some favor guidance to protect against harmful relationships; others defend young peopleâ€™s autonomy. I advocate for a supportive, advisory role rather than direct control.
 
 Parental insight can be valuable. Adults may recognize red flagsâ€”manipulation, substance abuseâ€”that adolescents overlook. Open conversations about values and boundaries can prevent unhealthy dynamics. In cultures where family networks are central, parental involvement can also facilitate social compatibility.
@@ -407,6 +436,7 @@ In conclusion, parents should influence indirectly through guidance and example,
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 5) Jan 4, 2025 â€” The increasing frequency of satellite launches and space debris is becoming a threat to the Earth. What are the main causes? What measures can be taken to address this? (Problem/Solution essay)
+
 The surge in satellite launches, driven by cheaper rockets and commercial constellations, has increased orbital debris, threatening spacecraft and even ground infrastructure. Debris accumulates through fragmentation from collisions and anti-satellite tests, defunct satellites, and spent rocket stages.
 
 Mitigating this requires international coordination. First, adopt and enforce debris mitigation standards: deorbit satellites within five years of end-of-life, passivate fuel tanks, and design for controlled reentry. Second, license launch frequency and constellation sizes based on traffic management frameworks that account for collision risk. Third, invest in space situational awareness and active debris removalâ€”robotic capture, drag sails, and laser nudgingâ€”to address legacy junk.
@@ -420,6 +450,7 @@ In conclusion, space remains a shared domain. With enforceable rules, technologi
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 6) Jan 1, 2025 â€” In recent years, there has been a rise in the use of performance-enhancing drugs in sports. What are the consequences of doping for athletes? What measures should be taken to combat this issue? (Problem/Solution essay)
+
 The rise of performance-enhancing drugs threatens the integrity of sport. Consequences for athletes include severe health risksâ€”cardiovascular strain, hormonal disorders, psychological effectsâ€”and reputational damage that can end careers. Doping also erodes fair play, alienates fans, and pressures clean athletes to follow suit.
 
 Combating this requires comprehensive strategies. Anti-doping agencies need adequate funding for out-of-competition testing, biological passports, and advanced analytics to detect micro-dosing. Strict but fair sanctions, coupled with whistleblower protections, deter violations. Education programs starting at youth levels must address ethics, nutrition, and the long-term harms of doping.
@@ -438,6 +469,7 @@ Education
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 1) Some people believe academic subjects should be prioritized in school, while others think practical skills are more important. Discuss both views and give your opinion. (Discussion essay)
+
 Debate continues over whether schools should place greater emphasis on academic disciplines or on practical skills. Supporters of traditional subjects argue that mathematics, science, and languages build abstract thinking, logical reasoning, and cultural literacy. These subjects help students evaluate evidence, synthesize ideas, and engage in informed citizenship. High-level conceptual knowledge is also a durable asset: while specific tools change, the ability to model a problem or interpret data remains valuable across careers.
 
 By contrast, proponents of practical skills highlight employability and life readiness. Financial literacy, digital fluency, communication, and craftsmanship enable students to apply knowledge in concrete settings. Such skills can open diverse pathways into trades and entrepreneurship, reducing youth unemployment and addressing skills shortages. Practical learning also increases motivation because students see an immediate link between classroom tasks and real-world outcomes.
@@ -449,6 +481,7 @@ Ultimately, schools should prioritize coherence, not hierarchy. A curriculum tha
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 2) Online learning is becoming more popular than traditional classroom learning. Do you think this is a positive or negative development? (Opinion essay)
+
 The rapid expansion of online learning has transformed education, raising the question of whether this shift is beneficial. I consider the trend positive overall, provided it is implemented within thoughtful pedagogical frameworks rather than as a cost-cutting substitute for in-person teaching.
 
 Online platforms democratize access. Working adults, caregivers, and rural learners can study flexibly, and recorded lectures support mastery learning through pause-and-replay functionality. Adaptive systems personalize practice and flag misconceptions early, while discussion boards and collaborative documents foster peer interaction across borders. Moreover, data analytics give instructors granular insight into participation and comprehension, enabling targeted intervention.
@@ -462,6 +495,7 @@ In sum, online learning is a powerful addition to the educational toolkit. Used 
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 3) Some argue that university education should focus on preparing students for specific jobs, while others think it should provide a broad education. Discuss both views and give your own opinion. (Discussion essay)
+
 Universities face pressure to produce job-ready graduates, yet they are also guardians of broad intellectual development. Advocates of career-focused programs emphasize alignment with labor market needs. Work-integrated learning, certifications, and industry partnerships can accelerate entry into employment and signal competence to recruiters. In rapidly evolving sectors, applied training keeps curricula current and demonstrably useful.
 
 Conversely, supporters of a broad education contend that specialization without breadth risks obsolescence. Critical thinking, ethical reasoning, and communication are portable across roles and resilient to technological change. Exposure to history, philosophy, and the arts expands perspective, enabling graduates to navigate ambiguity, collaborate across disciplines, and make responsible decisionsâ€”capacities vital for leadership.
@@ -475,6 +509,7 @@ Environment & Climate
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 4) Climate change is one of the biggest threats to humanity. What are the causes, and what solutions can governments and individuals take? (Problem/Solution essay)
+
 Anthropogenic climate change is driven primarily by greenhouse gas emissions from burning fossil fuels for energy and transport, industrial processes, and deforestation. Agriculture contributes significant methane and nitrous oxide through livestock and fertilizers, while land-use change reduces natural carbon sinks. Feedbacksâ€”melting ice, permafrost thawâ€”risk amplifying warming beyond linear projections.
 
 Addressing this threat demands systemic action. Governments should phase out fossil fuel subsidies and implement carbon pricing to internalize environmental costs, using revenue to support low-income households and fund green infrastructure. Massive investment is needed to expand renewables, modernize grids, and scale storage. Policies must also accelerate electrification of vehicles and heating, set efficiency standards for buildings and appliances, and protect and restore forests, peatlands, and mangroves.
@@ -488,6 +523,7 @@ In sum, aligning markets, technology, and behavior through ambitious, fair polic
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 5) Some people believe that individuals can do nothing to improve the environment. Only governments and large companies can make a difference. To what extent do you agree or disagree? (Opinion essay)
+
 It is often argued that environmental problems are so vast that only states and corporations can meaningfully address them. While systemic action is indispensable, I disagree that individuals are powerless. Personal choices, civic engagement, and community initiatives both reduce direct impacts and reshape institutional behavior.
 
 First, aggregated individual actions matter. Household energy efficiency, reduced meat consumption, and modal shifts to walking, cycling, or transit measurably cut emissions and pollution. These choices also create markets for greener products, prompting firms to innovate and scale sustainable options, which in turn lowers prices for all.
@@ -501,6 +537,7 @@ Therefore, the relationship is complementary, not binary. Governments and compan
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 6) Over-packaging of consumer goods causes environmental problems. Who should take responsibilityâ€”producers or consumers? (Discussion essay)
+
 Over-packaging increases resource use and waste, pollutes ecosystems, and burdens municipal budgets. Responsibility is shared, but producers should bear primary accountability because they control design, materials, and supply chains at scale.
 
 Producers can eliminate unnecessary layers, right-size containers, and switch to recyclable, compostable, or reusable formats. Designing for disassembly and standardizing components facilitate recovery. Extended Producer Responsibility (EPR) schemesâ€”where companies finance collection and recyclingâ€”align incentives: the more waste created, the higher the cost. Retailers can support bulk aisles, refill stations, and clear labelling that communicates end-of-life pathways and true recyclability.
@@ -516,6 +553,7 @@ Technology & Society
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 7) Some people think artificial intelligence will replace teachers in the future. Do you agree or disagree? (Opinion essay)
+
 Artificial intelligence is reshaping education, yet I disagree that it will replace teachers. AI excels at tasks such as adaptive practice, automated feedback on routine assignments, and data-driven identification of learning gaps. These functions can personalize pathways and free educatorsâ€™ time for higher-value work.
 
 However, teaching is fundamentally relational and ethical. Teachers build trust, motivate reluctant learners, mediate conflict, and model intellectual curiosity. They design rich learning experiences, orchestrate discussion, and provide nuanced feedback on complex workâ€”skills grounded in empathy and professional judgment that current AI cannot authentically replicate. In safeguarding wellbeing and inclusion, human presence is indispensable.
@@ -527,6 +565,7 @@ In short, AI will change what teachers do, not whether they are needed. By autom
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 8) Many people rely heavily on smartphones and the internet for daily tasks. Is this a positive or negative trend? (Opinion essay)
+
 Heavy reliance on smartphones and the internet has become integral to modern life. On balance, I see this as a conditionally positive trend that enhances productivity and access, provided users and policymakers manage the associated risks.
 
 Positively, digital tools streamline tasksâ€”navigation, payments, schedulingâ€”and democratize information and services. Telemedicine, e-government, and online education reduce barriers for rural residents and people with disabilities. Smartphones also strengthen social ties through low-cost communication and enable citizen reporting in emergencies.
@@ -540,6 +579,7 @@ Used deliberately, smartphones and the internet amplify human capability; used p
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 9) Some believe social media is causing more harm than good in society. To what extent do you agree or disagree? (Opinion essay)
+
 Social mediaâ€™s societal impact is contested. It empowers marginalized voices, accelerates information sharing, and supports small businesses. At the same time, it facilitates misinformation, polarizes discourse, and can harm mental health. I believe the balance of outcomes hinges on governance and user practice; with the right safeguards, benefits can outweigh harms.
 
 On the positive side, grassroots campaigns have mobilized around hashtags, and real-time updates aid crisis response. Entrepreneurs leverage low-cost marketing to reach customers, while communities form around shared interests and support needs. Diaspora networks maintain cultural ties across borders.
@@ -555,6 +595,7 @@ Health & Lifestyle
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 10) Governments should spend more money on preventive health measures than on treatment. Do you agree or disagree? (Opinion essay)
+
 I agree that marginal public spending should tilt toward prevention rather than treatment. While acute and specialist care will always be essential, prevention averts disease, reduces costs, and improves quality of life more effectively over the long term.
 
 Preventive measures operate at multiple levels. Primary preventionâ€”vaccination, tobacco control, clean air, and safe waterâ€”stops disease before it starts. Secondary preventionâ€”screenings for cancers, hypertension, and diabetesâ€”enables early detection and less invasive treatment. Tertiary preventionâ€”rehabilitation and chronic disease managementâ€”reduces complications and readmissions. Investments in active transport and healthy school meals further tackle upstream determinants.
@@ -568,6 +609,7 @@ In sum, a prevention-first strategy is fiscally prudent and humane. It keeps peo
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 11) Obesity is a growing problem. What are the causes, and what solutions can be implemented to tackle it? (Problem/Solution essay)
+
 Obesity results from a complex interplay of biology, behavior, and environment. Calorie-dense, ultra-processed foods are cheap and ubiquitous, while sedentary work and car-dependent urban design limit daily energy expenditure. Marketing targets children, normalizing oversized portions. Socio-economic factorsâ€”stress, shift work, and limited access to safe recreationâ€”compound risk, and genetics influence susceptibility.
 
 A comprehensive response must reshape environments, not just exhort individuals. Governments should adopt clear front-of-pack labelling, restrict junk-food advertising to children, and implement taxes on sugar-sweetened beverages to nudge consumption. Revenues can subsidize fruits and vegetables and fund healthy school meals. Urban planning should prioritize safe sidewalks, cycling networks, and access to parks, while employers encourage movement breaks and flexible schedules.
@@ -579,6 +621,7 @@ Success requires sustained political commitment and coordination across sectors�
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 12) Some people think all public transport should be free to improve public health and the environment. Do you agree or disagree? (Opinion essay)
+
 Making public transport free is an attractive idea, promising fewer cars, cleaner air, and more physical activity from walking to stops. Yet fare abolition alone rarely delivers large ridership gains without high service quality. I therefore support targeted free fares combined with substantial service and infrastructure improvements.
 
 Evidence suggests that frequency, reliability, coverage, and perceived safety dominate mode choice. If buses remain infrequent and overcrowded, zero fares will not persuade many drivers to switch. Moreover, eliminating fares removes a revenue stream that agencies rely on to maintain and expand service; without replacement funding, quality can deteriorate.
@@ -592,6 +635,7 @@ Society & Culture
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 13) Some people say that parents should control their childrenâ€™s use of technology, while others believe children should be trusted to use it independently. Discuss both views and give your opinion. (Discussion essay)
+
 Parents grapple with balancing protection and autonomy in childrenâ€™s technology use. Advocates of strong control emphasize exposure risksâ€”violent or sexual content, cyberbullying, and privacy breachesâ€”and the impact of excessive screen time on sleep and attention. For younger children in particular, device settings, content filters, and time limits can create safe boundaries and healthy routines.
 
 Conversely, proponents of trust argue that digital competence requires guided exploration. Overly restrictive rules may provoke secrecy and limit opportunities to practice self-regulation. As children mature, negotiated norms and open dialogue foster responsibility and critical thinking. Trust, they contend, is earned through incremental independence, not granted all at once.
@@ -603,6 +647,7 @@ Schools can reinforce digital literacyâ€”evaluating sources, recognizing ma
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 14) In many countries, people are living longer. What challenges does this create, and what can be done to address them? (Problem/Solution essay)
+
 Population aging presents intertwined challenges. Pension systems strain as the ratio of workers to retirees falls, while healthcare faces increased demand for chronic disease management and long-term care. Families bear growing caregiving responsibilities, often with gendered impacts on womenâ€™s labor-force participation. Social isolation and ageism also threaten wellbeing and productivity.
 
 Solutions must be holistic. Gradually aligning retirement ages with life expectancy, while protecting those in physically demanding jobs, can stabilize pension finances. Promoting healthy agingâ€”preventive care, physical activity, and age-friendly environmentsâ€”reduces morbidity. Expanding home- and community-based services, caregiver allowances, and respite care supports families and delays costly institutionalization.
@@ -614,6 +659,7 @@ Culturally, reframing aging as an assetâ€”experience, mentorship, and civic
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 15) Many people today feel socially isolated even in densely populated cities. What are the causes, and how can this issue be addressed? (Problem/Solution essay)
+
 Urban isolation stems from multiple sources: transient populations, long commutes, unaffordable housing that forces frequent moves, and built environments that prioritize cars over convivial public space. Digital substitutionâ€”interacting online rather than in personâ€”can weaken neighborhood ties, while precarious work reduces time and energy for community participation.
 
 Addressing this requires rehumanizing urban design and strengthening local institutions. The 15-minute city modelâ€”mixed-use neighborhoods where daily needs are within a short walk or cycleâ€”creates natural encounters. Investments in parks, community centers, libraries, and safe streets provide inclusive third places. Zoning for mixed-income housing reduces segregation and churn.
@@ -627,6 +673,7 @@ Government & Global Issues
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 16) Some believe the government should fund artists, while others think this money should be spent on public services. Discuss both views and give your opinion. (Discussion essay)
+
 Public budgets are finite, prompting debate over whether the arts deserve government funding compared with core services. Critics argue that healthcare, education, and infrastructure are urgent necessities and that the market should determine which artistic endeavors succeed. They worry about subjective grantmaking and the opportunity cost of every dollar spent.
 
 Supporters counter that many artistic activities are public goods with broad spillovers: they enrich education, cohesion, and mental health, and they anchor creative industries that drive tourism and urban regeneration. Markets tend to underprovide such goods, particularly in disadvantaged regions or for experimental work that lacks immediate commercial appeal. Public funding diversifies voices and preserves heritage that might otherwise vanish.
@@ -638,6 +685,7 @@ Ultimately, funding the arts complements public services rather than competes wi
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 17) Globalization is increasing the similarity between countries. Do the advantages of this outweigh the disadvantages? (Advantage/Disadvantage essay)
+
 Globalization has undeniably made cities look and feel more alikeâ€”chain stores, shared technologies, and convergent lifestyles. This uniformity can erode local traditions, hollow out independent businesses, and increase vulnerability to global shocks when supply chains are tightly coupled. Cultural homogenization also risks reducing linguistic and artistic diversity.
 
 Yet the advantages are substantial. Cross-border trade and knowledge flows have lifted millions from poverty, accelerated medical and technological advances, and enabled unprecedented collaboration on research and disaster response. Standardization can improve safety and interoperabilityâ€”from aviation to digital communicationsâ€”while migration and exchange foster cosmopolitanism and mutual understanding.
@@ -649,6 +697,7 @@ On balance, globalizationâ€™s benefits outweigh its harms when societies sh
 
 Furthermore, practical implementation should be guided by clear metrics, reasonable timelines, and regular public reporting. Schools, employers, and local authorities can pilot small-scale initiatives, gather feedback, and iterate rather than attempting one-size-fits-all reforms. By pairing policy with education, investing in capacity, and tracking outcomes, stakeholders can adapt quickly, scale what works, and ensure that benefits are distributed fairly across communities. This pragmatic, evidence-led approach reduces unintended consequences, strengthens public trust, and makes the overall strategy more resilient to economic shocks and social change.
 18) Crime rates are rising in many urban areas. What are the causes of this trend, and how can it be reversed? (Problem/Solution essay)
+
 Rising urban crime often reflects converging pressures: economic shocks and inequality, disrupted schooling and youth services, proliferation of illegal firearms, and weakened trust between communities and law enforcement. Environmental factorsâ€”poor lighting, abandoned buildings, liquor outlet densityâ€”create opportunities for offending. Social media can amplify conflicts and facilitate illicit markets.
 
 Reversing the trend requires focused, evidence-based strategies. Hot-spot policing that concentrates resources on micro-locations with high harm, combined with procedural justice to build legitimacy, can reduce violence without blanket enforcement. Focused deterrenceâ€”engaging the small number of groups driving serious crime, coupling clear consequences with tailored supportâ€”has shown durable impacts. Environmental design upgradesâ€”lighting, cleaning vacant lots, activating public spacesâ€”lower opportunistic crime.
